@@ -1,5 +1,8 @@
 # nuxt-vite-issue
 
+Reproduce `nuxt-vite` build error with `kebab-case` middleware file.
+Bug report: https://github.com/nuxt/vite/issues/36
+
 ## Build Setup
 
 ```bash
